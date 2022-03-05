@@ -20,10 +20,10 @@ Coroutines is our recommended solution for asynchronous programming on Android. 
 
 ## Project Contents 📜
 
-- [CoroutineScope](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/CoroutineScopeClass.kt)
-- [Dispatchers Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/DispatchersCoroutines.kt)
-- [GlobalScope](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/GlobalScopeClass.kt)
-- [Nested Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/NestedCoroutines.kt)
-- [RunBlocking](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/RunBlockingClass.kt)
-- [Suspend Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/SuspendCoroutines.kt)
-- [Coroutines Async](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/CoroutineBasics/CoroutinesAsync.kt)
+- [CoroutineScope](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/CoroutineScopeClass.kt)
+- [Dispatchers Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/DispatchersCoroutines.kt)
+- [GlobalScope](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/GlobalScopeClass.kt)
+- [Nested Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/NestedCoroutines.kt)
+- [RunBlocking](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/RunBlockingClass.kt)
+- [Suspend Coroutines](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/SuspendCoroutines.kt)
+- [Coroutines Async](https://github.com/ZeynelErdiKarabulut/CoroutineBasics/blob/master/app/src/main/java/com/zeynelerdi/coroutinebasics/CoroutinesAsync.kt)
